@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:default="http:///schemas/default/_PQw4OW-BEe-PCZbj-2LR3g/0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xsi:schemaLocation="http:///schemas/default/_PQw4OW-BEe-PCZbj-2LR3g/0 default.profile.xmi#_PQ6pGG-BEe-PCZbj-2LR3g">
+  <uml:Model xmi:id="_PQw4EG-BEe-PCZbj-2LR3g" name="test">
+    <eAnnotations xmi:id="_PQw4EW-BEe-PCZbj-2LR3g" source="Objing">
+      <contents xmi:type="uml:Property" xmi:id="_PQw4Em-BEe-PCZbj-2LR3g" name="exporterVersion">
+        <defaultValue xmi:type="uml:LiteralString" xmi:id="_PQw4E2-BEe-PCZbj-2LR3g" value="3.0.0"/>
+      </contents>
+    </eAnnotations>
+    <packagedElement xmi:type="uml:Class" xmi:id="_PQw4FG-BEe-PCZbj-2LR3g" name="Exigence"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_PQw4FW-BEe-PCZbj-2LR3g" name="Use Case 1" clientDependency="_PQw4HG-BEe-PCZbj-2LR3g">
+      <ownedComment xmi:id="_PQw4Fm-BEe-PCZbj-2LR3g">
+        <body>vblabla</body>
+      </ownedComment>
+      <ownedComment xmi:id="_PQw4F2-BEe-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_PQw4GG-BEe-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_PQw4GW-BEe-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_PQw4Gm-BEe-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_PQw4G2-BEe-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_PQw4HG-BEe-PCZbj-2LR3g" name="" supplier="_PQw4Mm-BEe-PCZbj-2LR3g" client="_PQw4FW-BEe-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_PQw4HW-BEe-PCZbj-2LR3g" name="Use Case 2">
+      <ownedComment xmi:id="_PQw4Hm-BEe-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_PQw4H2-BEe-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_PQw4IG-BEe-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_PQw4IW-BEe-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_PQw4Im-BEe-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_PQw4I2-BEe-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_PQw4JG-BEe-PCZbj-2LR3g" name="Use Case 3" clientDependency="_PQw4K2-BEe-PCZbj-2LR3g">
+      <ownedComment xmi:id="_PQw4JW-BEe-PCZbj-2LR3g">
+        <body>test</body>
+      </ownedComment>
+      <ownedComment xmi:id="_PQw4Jm-BEe-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_PQw4J2-BEe-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_PQw4KG-BEe-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_PQw4KW-BEe-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_PQw4Km-BEe-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_PQw4K2-BEe-PCZbj-2LR3g" name="" supplier="_PQw4NW-BEe-PCZbj-2LR3g" client="_PQw4JG-BEe-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_PQw4LG-BEe-PCZbj-2LR3g" name="Block" clientDependency="_PQw4LW-BEe-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_PQw4LW-BEe-PCZbj-2LR3g" name="" supplier="_PQw4NW-BEe-PCZbj-2LR3g" client="_PQw4LG-BEe-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:InstanceSpecification" xmi:id="_PQw4Lm-BEe-PCZbj-2LR3g" name="req1" clientDependency="_PQw4MG-BEe-PCZbj-2LR3g _PQw4MW-BEe-PCZbj-2LR3g" classifier="_PQw4FG-BEe-PCZbj-2LR3g">
+      <ownedComment xmi:id="_PQw4L2-BEe-PCZbj-2LR3g">
+        <body>blabla</body>
+      </ownedComment>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_PQw4MG-BEe-PCZbj-2LR3g" name="" supplier="_PQw4FW-BEe-PCZbj-2LR3g" client="_PQw4Lm-BEe-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_PQw4MW-BEe-PCZbj-2LR3g" name="" supplier="_PQw4NW-BEe-PCZbj-2LR3g" client="_PQw4Lm-BEe-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:InstanceSpecification" xmi:id="_PQw4Mm-BEe-PCZbj-2LR3g" name="req2" clientDependency="_PQw4M2-BEe-PCZbj-2LR3g _PQw4NG-BEe-PCZbj-2LR3g" classifier="_PQw4FG-BEe-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_PQw4M2-BEe-PCZbj-2LR3g" name="" supplier="_PQw4JG-BEe-PCZbj-2LR3g" client="_PQw4Mm-BEe-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_PQw4NG-BEe-PCZbj-2LR3g" name="" supplier="_PQw4HW-BEe-PCZbj-2LR3g" client="_PQw4Mm-BEe-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:InstanceSpecification" xmi:id="_PQw4NW-BEe-PCZbj-2LR3g" name="req3" clientDependency="_PQw4Nm-BEe-PCZbj-2LR3g _PQw4N2-BEe-PCZbj-2LR3g" classifier="_PQw4FG-BEe-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_PQw4Nm-BEe-PCZbj-2LR3g" name="" supplier="_PQw4Lm-BEe-PCZbj-2LR3g" client="_PQw4NW-BEe-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_PQw4N2-BEe-PCZbj-2LR3g" name="" supplier="_PQw4LG-BEe-PCZbj-2LR3g" client="_PQw4NW-BEe-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:InstanceSpecification" xmi:id="_PQw4OG-BEe-PCZbj-2LR3g" name="Instance" classifier="_PQw4FG-BEe-PCZbj-2LR3g"/>
+    <profileApplication xmi:id="_PRXVAG-BEe-PCZbj-2LR3g">
+      <eAnnotations xmi:id="_PRXVAW-BEe-PCZbj-2LR3g" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="default.profile.xmi#_PQ6pGG-BEe-PCZbj-2LR3g"/>
+      </eAnnotations>
+      <appliedProfile href="default.profile.xmi#_PQ6pEW-BEe-PCZbj-2LR3g"/>
+    </profileApplication>
+    <profileApplication xmi:id="_PRXVAm-BEe-PCZbj-2LR3g">
+      <eAnnotations xmi:id="_PRXVA2-BEe-PCZbj-2LR3g" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="sysml.profile.xmi#_PRNl9G-BEe-PCZbj-2LR3g"/>
+      </eAnnotations>
+      <appliedProfile href="sysml.profile.xmi#_PRNl7W-BEe-PCZbj-2LR3g"/>
+    </profileApplication>
+  </uml:Model>
+  <default:trace xmi:id="_PRXVBG-BEe-PCZbj-2LR3g" base_Dependency="_PQw4HG-BEe-PCZbj-2LR3g"/>
+  <default:trace xmi:id="_PRXVBW-BEe-PCZbj-2LR3g" base_Dependency="_PQw4K2-BEe-PCZbj-2LR3g"/>
+  <default:trace xmi:id="_PRXVBm-BEe-PCZbj-2LR3g" base_Dependency="_PQw4LW-BEe-PCZbj-2LR3g"/>
+  <default:trace xmi:id="_PRXVB2-BEe-PCZbj-2LR3g" base_Dependency="_PQw4MG-BEe-PCZbj-2LR3g"/>
+  <default:trace xmi:id="_PRXVCG-BEe-PCZbj-2LR3g" base_Dependency="_PQw4MW-BEe-PCZbj-2LR3g"/>
+  <default:trace xmi:id="_PRXVCW-BEe-PCZbj-2LR3g" base_Dependency="_PQw4M2-BEe-PCZbj-2LR3g"/>
+  <default:trace xmi:id="_PRXVCm-BEe-PCZbj-2LR3g" base_Dependency="_PQw4NG-BEe-PCZbj-2LR3g"/>
+  <default:trace xmi:id="_PRXVC2-BEe-PCZbj-2LR3g" base_Dependency="_PQw4Nm-BEe-PCZbj-2LR3g"/>
+  <default:trace xmi:id="_PRXVDG-BEe-PCZbj-2LR3g" base_Dependency="_PQw4N2-BEe-PCZbj-2LR3g"/>
+</xmi:XMI>

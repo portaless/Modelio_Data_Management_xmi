@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:default="http:///schemas/default/_7DLPdm9-Ee-PCZbj-2LR3g/0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xsi:schemaLocation="http:///schemas/default/_7DLPdm9-Ee-PCZbj-2LR3g/0 default.profile.xmi#_7DLPfm9-Ee-PCZbj-2LR3g">
+  <uml:Model xmi:id="_7DLPUG9-Ee-PCZbj-2LR3g" name="test">
+    <eAnnotations xmi:id="_7DLPUW9-Ee-PCZbj-2LR3g" source="Objing">
+      <contents xmi:type="uml:Property" xmi:id="_7DLPUm9-Ee-PCZbj-2LR3g" name="exporterVersion">
+        <defaultValue xmi:type="uml:LiteralString" xmi:id="_7DLPU29-Ee-PCZbj-2LR3g" value="3.0.0"/>
+      </contents>
+    </eAnnotations>
+    <packagedElement xmi:type="uml:Class" xmi:id="_7DLPVG9-Ee-PCZbj-2LR3g" name="Exigence"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_7DLPVW9-Ee-PCZbj-2LR3g" name="Use Case 1" clientDependency="_7DLPXG9-Ee-PCZbj-2LR3g">
+      <ownedComment xmi:id="_7DLPVm9-Ee-PCZbj-2LR3g">
+        <body>vblabla</body>
+      </ownedComment>
+      <ownedComment xmi:id="_7DLPV29-Ee-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_7DLPWG9-Ee-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_7DLPWW9-Ee-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_7DLPWm9-Ee-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_7DLPW29-Ee-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_7DLPXG9-Ee-PCZbj-2LR3g" name="" supplier="_7DLPcG9-Ee-PCZbj-2LR3g" client="_7DLPVW9-Ee-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_7DLPXW9-Ee-PCZbj-2LR3g" name="Use Case 2">
+      <ownedComment xmi:id="_7DLPXm9-Ee-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_7DLPX29-Ee-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_7DLPYG9-Ee-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_7DLPYW9-Ee-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_7DLPYm9-Ee-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_7DLPY29-Ee-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_7DLPZG9-Ee-PCZbj-2LR3g" name="Use Case 3" clientDependency="_7DLPa29-Ee-PCZbj-2LR3g">
+      <ownedComment xmi:id="_7DLPZW9-Ee-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_7DLPZm9-Ee-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_7DLPZ29-Ee-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_7DLPaG9-Ee-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_7DLPaW9-Ee-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_7DLPam9-Ee-PCZbj-2LR3g">
+        <body>...</body>
+      </ownedComment>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_7DLPa29-Ee-PCZbj-2LR3g" name="" supplier="_7DLPc29-Ee-PCZbj-2LR3g" client="_7DLPZG9-Ee-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:InstanceSpecification" xmi:id="_7DLPbG9-Ee-PCZbj-2LR3g" name="req1" clientDependency="_7DLPbm9-Ee-PCZbj-2LR3g _7DLPb29-Ee-PCZbj-2LR3g" classifier="_7DLPVG9-Ee-PCZbj-2LR3g">
+      <ownedComment xmi:id="_7DLPbW9-Ee-PCZbj-2LR3g">
+        <body>blabla</body>
+      </ownedComment>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_7DLPbm9-Ee-PCZbj-2LR3g" name="" supplier="_7DLPVW9-Ee-PCZbj-2LR3g" client="_7DLPbG9-Ee-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_7DLPb29-Ee-PCZbj-2LR3g" name="" supplier="_7DLPc29-Ee-PCZbj-2LR3g" client="_7DLPbG9-Ee-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:InstanceSpecification" xmi:id="_7DLPcG9-Ee-PCZbj-2LR3g" name="req2" clientDependency="_7DLPcW9-Ee-PCZbj-2LR3g _7DLPcm9-Ee-PCZbj-2LR3g" classifier="_7DLPVG9-Ee-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_7DLPcW9-Ee-PCZbj-2LR3g" name="" supplier="_7DLPZG9-Ee-PCZbj-2LR3g" client="_7DLPcG9-Ee-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_7DLPcm9-Ee-PCZbj-2LR3g" name="" supplier="_7DLPXW9-Ee-PCZbj-2LR3g" client="_7DLPcG9-Ee-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:InstanceSpecification" xmi:id="_7DLPc29-Ee-PCZbj-2LR3g" name="req3" clientDependency="_7DLPdG9-Ee-PCZbj-2LR3g" classifier="_7DLPVG9-Ee-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_7DLPdG9-Ee-PCZbj-2LR3g" name="" supplier="_7DLPbG9-Ee-PCZbj-2LR3g" client="_7DLPc29-Ee-PCZbj-2LR3g"/>
+    <packagedElement xmi:type="uml:InstanceSpecification" xmi:id="_7DLPdW9-Ee-PCZbj-2LR3g" name="Instance" classifier="_7DLPVG9-Ee-PCZbj-2LR3g"/>
+    <profileApplication xmi:id="_7DeKQG9-Ee-PCZbj-2LR3g">
+      <eAnnotations xmi:id="_7DeKQW9-Ee-PCZbj-2LR3g" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="default.profile.xmi#_7DLPfm9-Ee-PCZbj-2LR3g"/>
+      </eAnnotations>
+      <appliedProfile href="default.profile.xmi#_7DLPd29-Ee-PCZbj-2LR3g"/>
+    </profileApplication>
+  </uml:Model>
+  <default:trace xmi:id="_7DeKQm9-Ee-PCZbj-2LR3g" base_Dependency="_7DLPXG9-Ee-PCZbj-2LR3g"/>
+  <default:trace xmi:id="_7DeKQ29-Ee-PCZbj-2LR3g" base_Dependency="_7DLPa29-Ee-PCZbj-2LR3g"/>
+  <default:trace xmi:id="_7DeKRG9-Ee-PCZbj-2LR3g" base_Dependency="_7DLPbm9-Ee-PCZbj-2LR3g"/>
+  <default:trace xmi:id="_7DeKRW9-Ee-PCZbj-2LR3g" base_Dependency="_7DLPb29-Ee-PCZbj-2LR3g"/>
+  <default:trace xmi:id="_7DeKRm9-Ee-PCZbj-2LR3g" base_Dependency="_7DLPcW9-Ee-PCZbj-2LR3g"/>
+  <default:trace xmi:id="_7DeKR29-Ee-PCZbj-2LR3g" base_Dependency="_7DLPcm9-Ee-PCZbj-2LR3g"/>
+  <default:trace xmi:id="_7DeKSG9-Ee-PCZbj-2LR3g" base_Dependency="_7DLPdG9-Ee-PCZbj-2LR3g"/>
+</xmi:XMI>
